@@ -37,3 +37,12 @@ You can download the main Excel file and datasets directly from the repository:
 
 ## Additional Resources
 - [YouTube Tutorial](https://www.youtube.com/watch?v=opJgMj1IUrc): A tutorial that inspired this project.
+
+## Certifications
+
+Here are some of my professional certifications related to this project:
+
+  - 📊 [Google Data Analytics Professional Certificate](https://coursera.org/share/4ed75de36411d7d5c0389e2d61a2c2ff)
+<img src="https://i.imgur.com/lctxOq1.png" alt="Google Data Analytics " width="100"/>
+
+For a full list of my certifications, please refer to the [certifications section](https://github.com/danartech).
